@@ -36,9 +36,11 @@ This table consists of recommended food/drinks , where they are available and th
 ***
 ## Quotes 
 
->Big dreams Dont lead to success , need to hustle.
+>Big dreams Dont lead to success , need to hustle. - *Ravi Teja Yethappu* 
 
->Money cannot buy happiness , happiness is state of mind.
+>Money cannot buy happiness , happiness is state of mind. - *Ravi Teja Yethappu*
+
+
 
 
 
