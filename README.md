@@ -14,9 +14,9 @@
 
 ### Things to carry 
 
-1. Electronic gadgets.
-2. Clothes
-3. Outdoor game equipments 
+- Electronic gadgets.
+- Clothes
+- Outdoor game equipments 
 
 [AboutME](/AboutMe.md)
 
