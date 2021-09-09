@@ -18,3 +18,21 @@
 2. Clothes
 3. Outdoor game equipments 
 
+[AboutME](/AboutMe.md)
+
+***
+
+## Food/Drinks 
+
+This table consists of recommended food/drinks , where they are available and the price tag .
+
+| Food/Drinks      | Location    | Price |
+| :---             | :---:       | ---:  |
+|Chicken Keema     | Hyderabad   | $10   |
+|Mutton bryani     | Kansas      | $20   |
+|Egg bhurji        | Delhi       | $5    |
+| Badam milk       | Kansas      | $3    |
+
+***
+
+
