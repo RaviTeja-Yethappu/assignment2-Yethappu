@@ -37,6 +37,7 @@ This table consists of recommended food/drinks , where they are available and th
 ## Quotes 
 
 >Big dreams Dont lead to success , need to hustle.
+
 >Money cannot buy happiness , happiness is state of mind.
 
 
